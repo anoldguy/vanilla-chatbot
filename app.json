@@ -4,5 +4,5 @@
   "repository": "https://github.com/anoldguy/vanilla-chatbot/tree/master",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["vanilla", "chatbot"],
-  "success_url": "/welcome",
+  "success_url": "/welcome"
 }
