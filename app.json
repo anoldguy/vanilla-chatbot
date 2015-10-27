@@ -1,0 +1,8 @@
+{
+  "name": "Vanilla Sample Chatbot",
+  "description": "A demonstration of a simple chatbot to talk with a host app!",
+  "repository": "https://github.com/anoldguy/vanilla-chatbot/tree/master",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["vanilla", "chatbot"],
+  "success_url": "/welcome",
+}
